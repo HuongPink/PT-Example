@@ -1,0 +1,46 @@
+2023-07-19 11:29:51,829 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-07-19 11:29:51,841 INFO o.a.j.JMeter: Loading user properties from: /opt/homebrew/Cellar/jmeter/5.5/libexec/bin/user.properties
+2023-07-19 11:29:51,842 INFO o.a.j.JMeter: Loading system properties from: /opt/homebrew/Cellar/jmeter/5.5/libexec/bin/system.properties
+2023-07-19 11:29:51,844 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-07-19 11:29:51,844 INFO o.a.j.JMeter: Version 5.5
+2023-07-19 11:29:51,844 INFO o.a.j.JMeter: java.version=19.0.2
+2023-07-19 11:29:51,844 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2023-07-19 11:29:51,844 INFO o.a.j.JMeter: os.name=Mac OS X
+2023-07-19 11:29:51,844 INFO o.a.j.JMeter: os.arch=aarch64
+2023-07-19 11:29:51,844 INFO o.a.j.JMeter: os.version=13.4
+2023-07-19 11:29:51,844 INFO o.a.j.JMeter: file.encoding=UTF-8
+2023-07-19 11:29:51,844 INFO o.a.j.JMeter: java.awt.headless=null
+2023-07-19 11:29:51,845 INFO o.a.j.JMeter: Max memory     =1073741824
+2023-07-19 11:29:51,845 INFO o.a.j.JMeter: Available Processors =8
+2023-07-19 11:29:51,849 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-07-19 11:29:51,850 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-07-19 11:29:51,850 INFO o.a.j.JMeter: JMeterHome=/opt/homebrew/Cellar/jmeter/5.5/libexec
+2023-07-19 11:29:51,850 INFO o.a.j.JMeter: user.dir  =/Users/anhnguyen/Desktop/Rakkar-g/PT-Example
+2023-07-19 11:29:51,850 INFO o.a.j.JMeter: PWD       =/Users/anhnguyen/Desktop/Rakkar-g/PT-Example
+2023-07-19 11:29:51,851 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: Anhs-MacBook-Air.local FullName: localhost
+2023-07-19 11:29:51,855 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-07-19 11:29:52,047 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-07-19 11:29:52,964 INFO o.j.r.JARSourceHTTP: Found cached repo
+2023-07-19 11:29:53,066 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.7, websocket-samplers=1.2.8, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5]
+2023-07-19 11:29:53,067 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2023-07-19 11:30:04,794 INFO o.a.j.s.FileServer: Default base='/Users/anhnguyen/Desktop/Rakkar-g/PT-Example'
+2023-07-19 11:30:04,796 INFO o.a.j.g.a.Load: Loading file: /Users/anhnguyen/Desktop/Rakkar-g/PT-Example/Approval/View Request History.jmx
+2023-07-19 11:30:04,797 INFO o.a.j.s.FileServer: Set new base='/Users/anhnguyen/Desktop/Rakkar-g/PT-Example/Approval'
+2023-07-19 11:30:04,897 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-07-19 11:30:04,901 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-07-19 11:30:04,902 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-07-19 11:30:04,902 INFO o.a.j.s.SaveService: Loading file: /Users/anhnguyen/Desktop/Rakkar-g/PT-Example/Approval/View Request History.jmx
+2023-07-19 11:30:04,956 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-19 11:30:04,956 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-19 11:30:04,956 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-19 11:30:04,956 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-19 11:30:04,956 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-07-19 11:30:04,956 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-07-19 11:30:05,030 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-07-19 11:30:05,030 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2023-07-19 11:30:05,030 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-07-19 11:30:05,030 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-07-19 11:30:05,093 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-07-19 11:30:05,140 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-07-19 11:30:05,173 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-07-19 11:30:05,278 INFO o.a.j.s.FileServer: Set new base='/Users/anhnguyen/Desktop/Rakkar-g/PT-Example/Approval'
